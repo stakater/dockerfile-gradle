@@ -3,9 +3,9 @@ Dockerfile for Gradle
 
 Run the container with:
 ```
-docker run stakater/gradle-alpine
+docker run stakater/gradle
 ```
 or
 ```
-docker run stakater/gradle-alpine:3.5
+docker run stakater/gradle:3.5-alpine
 ```
